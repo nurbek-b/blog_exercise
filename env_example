@@ -1,0 +1,3 @@
+EMAIL_HOST_USER = <your_email@gmail.com>
+EMAIL_HOST_PASSWORD = <email_password>
+DEBUG = <True/False>
