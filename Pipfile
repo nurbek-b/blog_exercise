@@ -11,6 +11,8 @@ django-taggit = "==1.2.0"
 six = "*"
 markdown = "==3.1.1"
 python-decouple = "*"
+psycopg2-binary = "*"
+createsuperuser = "*"
 
 [requires]
 python_version = "3.6"
